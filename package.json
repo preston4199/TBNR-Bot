@@ -1,0 +1,16 @@
+{
+  "name": "fal",
+  "version": "1.0.0",
+  "description": "Testing deployment package",
+  "main": "index.js",
+  "scripts": {
+    "test": "/ping"
+  },
+  "author": "DigitalConnection",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.9.0",
+    "mysql2": "^3.2.3",
+    "node-fetch": "^3.3.1"
+  }
+}
